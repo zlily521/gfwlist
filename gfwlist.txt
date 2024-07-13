@@ -18,7 +18,10 @@
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
-!--||adorama.com
+！mylist
+||bing.com
+
+||adorama.com
 ||afreecatv.com
 ||agnesb.fr
 ||akiba-web.com
