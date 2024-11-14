@@ -18,8 +18,9 @@
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
-！mylist
+!mylist
 ||copilot.microsoft.com
+||www.duolingo.com
 
 ||adorama.com
 ||afreecatv.com
